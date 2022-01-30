@@ -107,17 +107,14 @@ height: 149%;
 .sidenav {
     width: 160px;
     position: fixed;
-    z-index: 1;
     top: 19vh;
     left: 57px;
-    overflow-x: hidden;
     padding: 8px 0;
 }
 .sidenav a {
     padding: 77px 10px 6px 16px;
     text-decoration: none;
     font-size: 0.7em;
-    font-weight: bold;
     color: #867772;
     display: block;
 }

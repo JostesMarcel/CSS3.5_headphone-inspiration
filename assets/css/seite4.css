@@ -131,7 +131,7 @@ main section:nth-of-type(2) h1{
     position: fixed;
     z-index: 1;
     top: 26vh;
-    left: 80px;
+    left: 57px;
     overflow-x: hidden;
     padding: 8px 0;
 }
